@@ -1,0 +1,134 @@
+html {
+    scroll-behavior: smooth;
+    cursor: url('../cursor.png'), auto;
+}
+
+body {
+    background-image: url("../background.png");
+    background-repeat: no-repeat;
+    background-color: #A7C4C2;
+    background-attachment: fixed;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+
+.navbarfont{
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+}
+  
+.ngecenter{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;   
+}
+
+.carousel{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#carousel-text{
+    color: #7B3C56;
+}
+
+.btn {
+    font-family: 'Raleway', sans-serif;
+    font-style: bold;
+    background-color: #4A001F; /* Green */
+    border: none;
+    color: white;
+    padding: 12px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    border-radius: 24px;
+}
+
+.btn:hover {
+    background-color: #7B3C56; /* Green */
+    color: white;
+  }
+
+.link {
+    color: #2E0219;;
+}
+
+.h2{
+    color: #2E0219;
+    font-family: 'Yeseva One', cursive;
+    font-style: black;
+    font-size: 18px;
+}
+
+.h1{
+    color: #274052;
+    font-family: 'Yeseva One', cursive;
+    font-style: black;
+    font-size: 32px;
+}
+
+#containerbg {
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#C8E3E2), to(#BCD6D4));
+}
+
+#containerbg-reference {
+    background-color: #274052;
+}
+
+#titleproject {
+    font-family: 'Yeseva One', cursive;
+    font-size: 72px;
+    color:transparent;
+    -webkit-text-stroke: 1px #568986;
+    margin-top: -100px;
+    margin-left: -8px;
+}
+
+
+#titleprojectshadow {
+    font-family: 'Yeseva One', cursive;
+    font-size: 72px;
+    color: #274052;
+}
+
+#bratz {
+    font-family: 'Yeseva One', cursive;
+    font-size: 18px;
+    color: #274052;
+}
+
+#shadow{
+    /* about me */
+    font-family: 'Yeseva One', cursive;
+    font-size: 98px;
+    line-height: 98px;
+    color: transparent;
+    -webkit-text-stroke: 1px #568986;
+}
+
+#titlesection{
+    /* about me */
+    font-family: Yeseva One;
+    font-size: 64px;
+    line-height: 64px;
+    margin-top: -85px;
+    padding-left: 50px;
+    color: #333333;
+}
+
+.paragrafnya {
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    line-height: 24px;
+
+    color: #274052;
+}
